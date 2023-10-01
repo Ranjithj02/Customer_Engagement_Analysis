@@ -9,7 +9,7 @@ Using Excel to find a
   
 - Hypothesis Testing
 
-There are 5 Task complete the Project
+ There are 5 Task complete the Project
 
 - Task1 and Task 2 - Descriptive Statisitics to compare the mean and Median
 
